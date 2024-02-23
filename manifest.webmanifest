@@ -1,0 +1,15 @@
+{
+  "background_color": "white",
+  "description": "Einkaufsliste nw1n",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Einkaufsliste nw1n",
+  "short_name": "Einkaufsliste nw1n",
+  "start_url": "/"
+}

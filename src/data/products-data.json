@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "title": "Eier",
+      "sortVal": 1000
+    },
+    {
+      "title": "Mandel",
+      "sortVal": 2000
+    }
+  ]
+}
